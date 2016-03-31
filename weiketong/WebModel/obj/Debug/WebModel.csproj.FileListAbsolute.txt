@@ -1,0 +1,4 @@
+E:\微客通\weiketong\weiketong\WebModel\bin\Debug\WebModel.dll
+E:\微客通\weiketong\weiketong\WebModel\bin\Debug\WebModel.pdb
+E:\微客通\weiketong\weiketong\WebModel\obj\Debug\WebModel.dll
+E:\微客通\weiketong\weiketong\WebModel\obj\Debug\WebModel.pdb

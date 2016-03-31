@@ -1,0 +1,8 @@
+E:\微客通\weiketong\weiketong\web\bin\web.dll.config
+E:\微客通\weiketong\weiketong\web\bin\web.dll
+E:\微客通\weiketong\weiketong\web\bin\web.pdb
+E:\微客通\weiketong\weiketong\web\bin\App_Code.dll
+E:\微客通\weiketong\weiketong\web\bin\App_Code.pdb
+E:\微客通\weiketong\weiketong\web\obj\Debug\web.csprojResolveAssemblyReference.cache
+E:\微客通\weiketong\weiketong\web\obj\Debug\web.dll
+E:\微客通\weiketong\weiketong\web\obj\Debug\web.pdb

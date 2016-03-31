@@ -1,0 +1,5 @@
+E:\微客通\weiketong\weiketong\App_Code\bin\Debug\App_Code.dll
+E:\微客通\weiketong\weiketong\App_Code\bin\Debug\App_Code.pdb
+E:\微客通\weiketong\weiketong\App_Code\obj\Debug\App_Code.dll
+E:\微客通\weiketong\weiketong\App_Code\obj\Debug\App_Code.pdb
+E:\微客通\weiketong\weiketong\App_Code\obj\Debug\App_Code.csprojResolveAssemblyReference.cache
